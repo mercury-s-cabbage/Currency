@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Currency</string>
+    <string name="refresh_rate">Проверить</string>
+    <string name="usd_rate">Текущая ставка:</string>
+    <string name="subscribe">Подписаться</string>
+    <string name="service_on">Вы подписаны на изменения</string>
+    <string name="service_off">Подписка отключена</string>
+    <string name="URL">https://min-api.cryptocompare.com/data/price</string>
+    <string name="FSYM_text">fsym=BTC</string>
+    <string name="TSYMS_text">tsyms=USD,JPY,EUR</string>
+    <string name="KEY_text">api_key=</string>
+</resources>
